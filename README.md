@@ -119,7 +119,7 @@ anylogic-port-simulation-model/
 │ └── port_model.alp
 ├── docs/
 │ ├── system_design.png
-│ ├── yard_structure.png
+│ └── yard_structure.png
 ├── results/
 │ └── simulation_results.png
 
