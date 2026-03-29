@@ -110,18 +110,20 @@ Simulation experiments show:
 - Provided insights for **resource allocation and evacuation planning**
 
 ---
-
 ##  Project Structure
+
+```text
 anylogic-port-simulation-model/
-├── README.md
-├── demo_simulation.gif
 ├── model/
-│ └── port_model.alp
+│   └── port_model.alp           
 ├── docs/
-│ ├── system_design.png
-│ └── yard_structure.png
+│   ├── system_design.png         
+│   └── yard_structure.png        
 ├── results/
-│ └── simulation_results.png
+│   └── simulation_results.png    
+├── demo_simulation.gif           
+└── README.md
+```
 
 ---
 
