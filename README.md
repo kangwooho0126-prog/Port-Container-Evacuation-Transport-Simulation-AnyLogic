@@ -45,7 +45,7 @@ Key challenges include:
 
 ## ⚙️ System Modeling
 
-The simulation is built using **AnyLogic**, a multi-method simulation platform supporting discrete-event and agent-based modeling. :contentReference[oaicite:0]{index=0}  
+The simulation is built using **AnyLogic**, a multi-method simulation platform supporting discrete-event and agent-based modeling.
 
 ### Key Components
 
