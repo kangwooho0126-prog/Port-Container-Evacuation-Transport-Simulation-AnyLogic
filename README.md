@@ -1,4 +1,10 @@
 #  Port Container Evacuation & Transport Simulation (AnyLogic)
+![AnyLogic](https://img.shields.io/badge/AnyLogic-Simulation-blue)
+![Simulation](https://img.shields.io/badge/Simulation-Port%20System-orange)
+![Discrete Event](https://img.shields.io/badge/Method-Discrete%20Event-yellow)
+![Container](https://img.shields.io/badge/Domain-Container%20Logistics-green)
+![Evacuation](https://img.shields.io/badge/Scenario-Evacuation%20Analysis-red)
+![Operations Research](https://img.shields.io/badge/OR-System%20Modeling-purple)
 
 ##  Project Overview
 
